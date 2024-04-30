@@ -1,0 +1,4 @@
+0.0.0.0 www.blogger.com
+0.0.0.0 www.4399.com
+0.0.0.0 www.bing.com
+13.107.18.254 k-ring.msedge.net
